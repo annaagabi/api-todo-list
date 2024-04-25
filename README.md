@@ -255,7 +255,7 @@ module.exports = router;
 - [x] https://tarefandoo.vercel.app/todo/65c29e4d7001ea2779ca351f
 
 ## Links
-[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/file/jJAFOw9cvpalCkMacMPZJ7/Tarefandoo?type=design&node-id=437-3&mode=design&t=622nry1CTlPBRAPQ-0) [![Vercel](https://skillicons.dev/icons?i=vercel)](https://api-tarefandoo.vercel.app) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/annaagabi/api-todo-list)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/file/jJAFOw9cvpalCkMacMPZJ7/Tarefandoo?type=design&node-id=437-3&mode=design&t=622nry1CTlPBRAPQ-0) [![Vercel](https://skillicons.dev/icons?i=vercel)](https://tarefandoo.vercel.app/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/annaagabi/api-todo-list)
 
 
 ## Autores
